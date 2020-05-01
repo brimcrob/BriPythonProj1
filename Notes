@@ -1,0 +1,8 @@
+# todo adds to the to do in the console- very handy
+
+CTRL + ALT +T brings up options to surround the code
+
+help(name of class) will display information about what is contained in the class along with any doc string
+always put a doc string within the class to remind what this happening in the class this will also output to the
+when doing help
+
